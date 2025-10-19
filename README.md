@@ -1,9 +1,7 @@
 <!-- Byte Spark GitHub Organization README -->
 <p align="center">
-  <img src="https://github.com/bytespark/.github/blob/main/profile/logo.png" alt="Byte Spark Logo" width="120"/>
+  <img src="https://github.com/theByteSpark/theByteSpark/blob/main/byte%20Spark%20logo.png" alt="Byte Spark Logo" width="360"/>
 </p>
-
-<h1 align="center">🚀 Byte Spark</h1>
 
 <h3 align="center">
   Helping Businesses Build & Scale Their Digital Presence  
@@ -24,7 +22,20 @@ Our goal is simple:
 > To empower businesses through smart technology, automation, and long-term collaboration.
 
 ---
+## 💬 Why Choose Byte Spark?
 
+✅ Proven expertise in **AI, Data, and Software Engineering**  
+✅ Flexible engagement — from consulting to full product delivery  
+✅ Transparent communication and long-term client relationships  
+✅ Focus on **innovation, scalability, and impact**
+
+---
+
+## 🧭 Vision
+
+> “To empower global businesses with intelligent, data-driven and automation-first solutions that make technology accessible, scalable, and sustainable.”
+
+---
 ## 🧠 Core Expertise
 
 | Area | What We Do |
@@ -75,22 +86,7 @@ We’re open to:
 📩 **Let’s Connect:**  
 - 🌐 [LinkedIn Company Page](https://www.linkedin.com/company/109429917)  
 - 👤 [Founder: Byte Spark](https://www.linkedin.com/in/byte-spark/)  
-- 📧 contact@bytespark.in *(optional – replace with your real email if you want)*  
-
----
-
-## 💬 Why Choose Byte Spark?
-
-✅ Proven expertise in **AI, Data, and Software Engineering**  
-✅ Flexible engagement — from consulting to full product delivery  
-✅ Transparent communication and long-term client relationships  
-✅ Focus on **innovation, scalability, and impact**
-
----
-
-## 🧭 Vision
-
-> “To empower global businesses with intelligent, data-driven and automation-first solutions that make technology accessible, scalable, and sustainable.”
+- 📧 info.thebytespark@gmail.com  
 
 ---
 
