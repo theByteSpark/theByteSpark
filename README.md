@@ -55,7 +55,7 @@ Our goal is simple:
 **Frontend:** React.js • Next.js • JavaScript • HTML5 • CSS3 • Tailwind  
 **Backend:** Node.js • PHP • Laravel • Express • REST & GraphQL APIs  
 **Mobile:** React Native • Flutter • Android (Kotlin/Java) • iOS (Swift)  
-**Databases:** MySQL • MongoDB • PostgreSQL • Firebase • Supabase  
+**Databases:** MySQL • MongoDB • PostgreSQL • Firebase  
 **Cloud & DevOps:** AWS • Google Cloud • Docker • GitHub Actions  
 **Data & AI:** Python • Pandas • TensorFlow • Power BI • Data Studio  
 
