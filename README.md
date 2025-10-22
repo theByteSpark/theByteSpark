@@ -78,15 +78,15 @@ Our goal is simple:
 ## 🌍 Collaboration Opportunities
 
 We’re open to:
-- Remote & Contract Development  
 - Long-Term Technical Partnerships  
 - AI, SaaS, and Automation Projects  
-- Startup & Enterprise Collaboration  
+- Startup & Enterprise Collaboration
+- Remote & Contract Development
 
 📩 **Let’s Connect:**  
-- 🌐 [LinkedIn Company Page](https://www.linkedin.com/company/109429917)  
-- 👤 [Founder: Byte Spark](https://www.linkedin.com/in/byte-spark/)  
-- 📧 info.thebytespark@gmail.com  
+- 🌐 [Byte Spark](https://www.linkedin.com/company/109429917)  
+- 👤 [Founder: Kaivan Shah](https://www.linkedin.com/in/byte-spark/)  
+- 📧 info.thebytespark@gmail.com
 
 ---
 
